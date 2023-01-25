@@ -1,0 +1,946 @@
+.Page-1 button {
+  background-color: transparent;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+
+  width: 138px;
+  height: 48px;
+  border: 1px solid rgba(255, 255, 255, 0.295743);
+  border-radius: 2px;
+}
+nav > a {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  text-decoration: none;
+  color: white;
+}
+.Page-1-MainText :first-child {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.Page-1-MainText > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 80px;
+  /* or 111% */
+
+  color: #ffffff;
+}
+.Page-1-MainText p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+nav > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  color: #ffffff;
+}
+.Page-1 button:hover {
+  transition-duration: 0.5s;
+  background-color: white;
+  color: black;
+}
+
+.Page-1-Header > h1 {
+  font-family: Ultra;
+  font-style: Regular;
+  font-size: 40px;
+  line-height: 48px;
+  line-height: 94%;
+}
+/* page2  */
+.Page-2-HeaderText:first-child p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+
+.Page-2-HeaderText h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* or 114% */
+
+  color: #171b1b;
+}
+.Page-2-Text > h5 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  color: #171b1b;
+}
+
+.Page-2-Text > p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+
+.Page-2-Text > h4 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  color: #171b1b;
+}
+/* 3 page  */
+.Page-3 > header > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #171b1b;
+}
+
+.Page-3 > header > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* identical to box height, or 114% */
+
+  text-align: center;
+
+  color: #171b1b;
+}
+.Page-3-Container h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+
+  color: #171b1b;
+}
+
+.Page-3-Container h3 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+.boxes {
+  transition-duration: 0.99s;
+  padding-right: 30px;
+}
+.boxes:hover {
+  height: 417px;
+  background: #9ead8d;
+}
+
+.boxes:hover .OrangeCircle {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+height: 30%;
+  transition-duration: 0.99s;
+
+  /* height: 180px; */
+}
+.OrangeCircle {
+  transition-duration: 0.99s;
+}
+
+.Page-3-Decorations {
+  margin-top: 5%;
+}
+/* page 4  */
+
+.Page-4-MainText > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* or 114% */
+
+  color: #ffffff;
+}
+
+.Page-4-MainText > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+/* page 5  */
+
+.Page-5 > header > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+
+.Page-5 > header > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* or 114% */
+
+  color: #171b1b;
+}
+.Page-5 > button {
+  background-color: transparent;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #171b1b;
+  border: solid grey 1px;
+}
+
+.one {
+  background-image: url(./Image/Page-5-1.jpeg);
+  background-size: cover;
+}
+.two {
+  background-image: url(./Image/Page-5-2.jpeg);
+  background-size: cover;
+}
+.three {
+  background-image: url(./Image/Page-5-3.jpeg);
+  background-size: cover;
+}
+.four {
+  background-image: url(./Image/Page-5-4.jpeg);
+  background-size: cover;
+}
+.zero {
+  background-image: url(./Image/Page-5-0.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+.zero p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.zero h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  /* or 120% */
+
+  color: #ffffff;
+}
+
+.zero h6 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(255, 255, 255, 0.502972);
+}
+.Page-5-Boxes h4 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+.Page-5-Boxes h5 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  color: #171b1b;
+}
+.Page-5 button:hover {
+  transition-duration: 0.5s;
+  background-color: black;
+  color: white;
+}
+
+/* page 6  */
+.Page-6 > header > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.Page-6 > header > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* identical to box height, or 114% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.Page-6-Boxes > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+.Page-6-Boxes > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+
+  padding-right: 110px;
+  color: #171b1b;
+}
+.Page-6-Boxes > h3 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+.Page-6-Boxes {
+  transition-duration: 0.99s;
+}
+.Page-6-Boxes:hover {
+  height: 417px;
+  background: #9ead8d;
+}
+/* page 7  */
+
+.Page-7 > header > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.Page-7 > header > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* or 114% */
+
+  color: #ffffff;
+}
+
+.Page-7 > header > h2 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  /* or 114% */
+
+  color: #ffffff;
+}
+.Page-7-Text > p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+
+.Page-7-Text > h5 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+
+  color: #171b1b;
+}
+.Page-7-Text > h2 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+.Page-7-Text > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+
+  color: #171b1b;
+}
+.Page-7-Text > h6 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+.Page-7-Text > p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+.Page-7-Text > h5 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+
+  color: #171b1b;
+}
+.Page-7 > button {
+  width: 170px;
+  height: 48px;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2%;
+  background-color: transparent;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: white;
+  border: solid grey 1px;
+}
+
+.Page-7 button:hover {
+  transition-duration: 0.5s;
+  background-color: white;
+  color: black;
+}
+
+/* page 8 */
+.Page-8-Header > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+.Page-8-Header > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* or 114% */
+
+  color: #171b1b;
+}
+.Page-8-Text > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+
+.Page-8-Text > h5 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  padding-bottom: 22px;
+
+  color: #171b1b;
+}
+
+.Page-8-Text > h6 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+
+.Page-8-Text > h3 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  color: #171b1b;
+  padding-top: 24px;
+}
+
+/* page 9 */
+.Page-9-Boxes {
+  transition-duration: 0.99s;
+}
+.Page-9-Boxes:hover {
+  height: 400px;
+  width: 402px;
+  background: #9ead8d;
+}
+
+.Page-9 > header > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+}
+
+.Page-9 > header > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* or 114% */
+
+  text-align: center;
+
+  color: #171b1b;
+}
+
+.Page-9-Boxes > h5 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+
+  color: #171b1b;
+}
+.h59 {
+  padding-top: 61px;
+}
+.text9 {
+  padding-top: 22px;
+}
+
+.Page-9-Boxes > p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+
+/* page 10  */
+.Page-10-MainText > header > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+  padding-bottom: 18px;
+}
+
+.Page-10-MainText > header > h1 {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  /* or 114% */
+
+  color: #171b1b;
+}
+.Map-arrow > img {
+  padding-right: 52px;
+}
+
+.Map-phone > img {
+  padding-right: 52px;
+}
+
+.Page-10-DownContainer1 {
+  padding-top: 62px;
+}
+
+.Map-arrow-text > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+  padding-bottom: 12px;
+}
+
+.Map-arrow-text > h1 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  color: #171b1b;
+  padding-bottom: 22px;
+}
+
+.Map-arrow-text > h5 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+
+.Map-phone-text > p {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #171b1b;
+  padding-bottom: 12px;
+}
+.Map-phone-text > h1 {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  padding-bottom: 22px;
+
+  color: #171b1b;
+}
+
+.Map-phone-text > h5 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: rgba(51, 51, 51, 0.496405);
+}
+.Page-10 button {
+  width: 170px;
+  height: 48px;
+  background-color: transparent;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #171b1b;
+  border: 1px solid gray;
+  margin: auto;
+  margin-top: 69px;
+  margin-bottom: 68px;
+}
+.Page-10 button:hover {
+  transition-duration: 0.5s;
+  background-color: black;
+  color: white;
+}
+
+/* page 11  */
+.Main-Title {
+  font-family: "Ultra";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 48px;
+  /* identical to box height, or 120% */
+
+  color: #ffffff;
+}
+.Column-Name {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 3px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.Column-Title > ul {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: #ffffff;
+}
+
+.Page-11-Underline > p {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  color: rgba(255, 255, 255, 0.502972);
+}
+
+.Page-11-Underline > h5 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  text-align: right;
+
+  color: #ffffff;
+}
+
+.Page-11-Underline > h6 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  text-align: right;
+
+  color: #ffffff;
+}
+hr {
+  margin: 70px 135px 0px 135px;
+  background: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.08;
+  width: 1170px;
+  height: 1px;
+}
+
+.Page-11-Underline {
+  display: flex;
+  flex-direction: row;
+  margin: 42px 135px 37px 135px;
+  gap: 90px;
+}
+.Page-11-Underline > h5 {
+  padding-left: 500px;
+}
